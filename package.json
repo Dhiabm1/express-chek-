@@ -1,0 +1,19 @@
+{
+  "name": "cpexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "i": "^0.3.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
